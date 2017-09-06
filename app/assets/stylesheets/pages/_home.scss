@@ -1,1 +1,9 @@
 // Specific CSS for your home-page
+body {
+  background-image: asset_url('background.jpg');
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
